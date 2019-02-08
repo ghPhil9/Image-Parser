@@ -1,5 +1,6 @@
 # Image Parser
 Sorry for my bad english, i`m from Russia :)
+YouTube video: https://youtu.be/Ni1FJHS2I2I
 
 The application parsing images of all kinds (screenshots / pictures / photos) from the site LightShot. 
 The application generates random links and saves all the images in the program folder.
