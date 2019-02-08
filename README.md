@@ -1,4 +1,4 @@
-# Image-Parser
+# Image Parser
 Sorry for my bad english, i`m from Russia :)
 
 The application parsing images of all kinds (screenshots / pictures / photos) from the site LightShot. 
