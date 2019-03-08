@@ -13,6 +13,6 @@ EXAMPLE:
          
          "Image Parser" -img ? --t 20 // symbol "?" it is random from 0 to 2147483647 - similarity infinite loop
 
-I recommend usage proxy if you need very lot pictures in order to avoid IP-ban. And dont use lot threads. They while not stable.
+I recommend usage proxy if you need very lot pictures in order to avoid IP-ban. And dont use lot threads. They now not stable.
 
 The application is analog prntscrScraper, but I want to expand and get better its functionality.
