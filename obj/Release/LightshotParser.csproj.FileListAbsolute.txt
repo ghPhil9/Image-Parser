@@ -1,0 +1,8 @@
+C:\Users\Phil9\Source\Repos\Image-Parser\bin\Release\LightshotParser.exe.config
+C:\Users\Phil9\Source\Repos\Image-Parser\bin\Release\LightshotParser.exe
+C:\Users\Phil9\Source\Repos\Image-Parser\bin\Release\WebDriver.dll
+C:\Users\Phil9\Source\Repos\Image-Parser\obj\Release\LightshotParser.csproj.AssemblyReference.cache
+C:\Users\Phil9\Source\Repos\Image-Parser\obj\Release\LightshotParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phil9\Source\Repos\Image-Parser\obj\Release\LightshotParser.csproj.CoreCompileInputs.cache
+C:\Users\Phil9\Source\Repos\Image-Parser\obj\Release\LightshotParser.csproj.CopyComplete
+C:\Users\Phil9\Source\Repos\Image-Parser\obj\Release\LightshotParser.exe

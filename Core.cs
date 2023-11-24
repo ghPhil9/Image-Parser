@@ -114,7 +114,7 @@ namespace LightshotParser
             Console.ReadKey();
         }
 
-        private readonly string appData = $"LightshotParser v0.1 [https://t.me/CSharpHive]";
+        private readonly string appData = $"LightshotParser v0.2 [https://t.me/CSharpHive]";
         private readonly string lastLogsFile = Environment.CurrentDirectory + "/LastLogs.txt";
         private List<Thread> threads = new List<Thread>();
         private readonly object syncLog = new object();
